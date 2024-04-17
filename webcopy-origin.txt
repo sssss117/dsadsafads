@@ -1,0 +1,152 @@
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/arrowDown.4a4fba1e.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\arrowDown.4a4fba1e.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/arrowLeft.c4b1acbd.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\arrowLeft.c4b1acbd.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/arrowUp.b4c597bb.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\arrowUp.b4c597bb.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/check.8b819a7c.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\check.8b819a7c.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/external.32e4e790.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\external.32e4e790.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/filter.659f772c.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\filter.659f772c.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/remove.5a95ea79.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\remove.5a95ea79.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-frontend.faceit-cdn.net/web/static/media/search.f61b6578.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\web\static\media\search.f61b6578.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-ukwest.onetrust.com/logos/static/ot_logo.png
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\logos\static\ot_logo.png
+Content Type: image/png
+
+Uri: https://cdn-ukwest.onetrust.com/logos/static/ot_persistent_cookie.png
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\logos\static\ot_persistent_cookie.png
+Content Type: image/png
+
+Uri: https://cdn-ukwest.onetrust.com/logos/static/poweredBy_ot_logo.svg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\logos\static\poweredBy_ot_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.faceit.com/assets/images/world-map-min.jpg
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\assets\images\world-map-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dwarfhub.pro/
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\index.htm
+Content Type: text/html
+
+Uri: https://dwarfhub.pro/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://dwarfhub.pro/j4ahw49cbgu6.js
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\j4ahw49cbgu6.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/lato/v13/1YwB1sO8YE1Lyjf12WNiUA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\1YwB1sO8YE1Lyjf12WNiUA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/EsvMC5un3kjyUhB9ZEPPwg.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\EsvMC5un3kjyUhB9ZEPPwg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/GtRkRNTnri0g82CjKnEB0Q.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\GtRkRNTnri0g82CjKnEB0Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/H2DMvhDLycM56KNuAtbJYA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\H2DMvhDLycM56KNuAtbJYA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/ObQr5XYcoH0WBoUxiaYK3_Y6323mHUZFJMgTvxaG2iE.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\ObQr5XYcoH0WBoUxiaYK3_Y6323mHUZFJMgTvxaG2iE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v13/UyBMtLsHKBKXelqf4x7VRQ.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\lato\v13\UyBMtLsHKBKXelqf4x7VRQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCp0y2lvQNTIQoQ.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6ae84K2oVqwItm4TCp0y2lvQNTIQoQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCp4y2lvQNTIQoQ.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6ae84K2oVqwItm4TCp4y2lvQNTIQoQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCp8y2lvQNTIQoQ.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6ae84K2oVqwItm4TCp8y2lvQNTIQoQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCpAy2lvQNTI.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6ae84K2oVqwItm4TCpAy2lvQNTI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCpMy2lvQNTIQoQ.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6ae84K2oVqwItm4TCpMy2lvQNTIQoQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCpQy2lvQNTIQoQ.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6ae84K2oVqwItm4TCpQy2lvQNTIQoQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvtE2H70Q13HqPA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6aez4K2oVqwIvtE2H70Q13HqPA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvtg2H70Q13HqPA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6aez4K2oVqwIvtg2H70Q13HqPA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvto2H70Q13HqPA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6aez4K2oVqwIvto2H70Q13HqPA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvts2H70Q13HqPA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6aez4K2oVqwIvts2H70Q13HqPA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvtU2H70Q13E.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6aez4K2oVqwIvtU2H70Q13E.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvtY2H70Q13HqPA.woff2
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\s\play\v10\6aez4K2oVqwIvtY2H70Q13HqPA.woff2
+Content Type: font/woff2
+
+Uri: https://i.imgur.com/S4obdrE.png
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\S4obdrE.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/wddwaYI.png
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\wddwaYI.png
+Content Type: image/png
+
+Uri: https://www.faceit.com/favicon.ico
+File Name: C:\Downloaded Web Sites\dwarfhub.pro\favicon.ico
+Content Type: image/x-icon
+
